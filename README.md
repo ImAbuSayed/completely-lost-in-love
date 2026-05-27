@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/completely-lost-in-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Completely Lost In Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/completely-lost-in-love/) |
+| **Get License** | [Get a Licensing Quote for Completely Lost In Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/completely-lost-in-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the fire burning in your eyes tonight
+> Shadows dancing softly in the fading light
+> Every single breath you take is pulling me so close
+> You are the only magic that I want the most
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
