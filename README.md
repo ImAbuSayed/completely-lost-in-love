@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/completely-lost-in-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Completely Lost In Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/completely-lost-in-love/) |
+| **Get License** | [Request Licensing for Completely Lost In Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/completely-lost-in-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6947c36e9dae3ef57ca5135ab6f913104e6440978d0acadf3760453b0b46fc60` |
 | **Timestamp** | May 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
